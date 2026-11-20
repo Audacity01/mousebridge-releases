@@ -19,6 +19,7 @@ MouseBridge checks. **You don't need a GitHub account** to download anything her
 - [Arrange your screens](#arrange-your-screens)
 - [Updating](#updating)
 - [Checking a download](#checking-a-download)
+- [Support MouseBridge](#support-mousebridge)
 - [Privacy](#privacy)
 - [Help](#help)
 
@@ -168,6 +169,14 @@ pyjkKlzV6ry+AC47S3nbXhs/dDmv0qBJdQKH46bkpov/oJUB/CwEJcIrYg==
 -----END PUBLIC KEY-----
 ```
 
+## Support MouseBridge
+
+MouseBridge is free, with nothing locked: no ads, no account and no tracking. It is made by one person. If it's useful
+to you, you can support it on Ko-fi: **<https://ko-fi.com/mousebridge>** (a one-time payment in US dollars, through
+PayPal, no Ko-fi account needed; suggested $5). Support pays for code signing first, so installing MouseBridge shows
+fewer warnings and the Mac keeps its permissions after updates. Paying unlocks nothing, and not paying takes nothing
+away. In MouseBridge the same button is at the end of *Help* and in the tray / menu bar menu.
+
 ## Privacy
 
 - MouseBridge works on your local network. To be found by your other computers, it announces this computer on every
@@ -185,11 +194,15 @@ pyjkKlzV6ry+AC47S3nbXhs/dDmv0qBJdQKH46bkpov/oJUB/CwEJcIrYg==
   As with any download, GitHub sees your IP address. It never signs in to a proxy server, so no proxy learns your
   Windows sign-in from it. Automatic checks can be switched off in **Settings > Updates**.
 - There is no telemetry. The log files never contain typed keys or clipboard contents.
+- The support page opens only when you choose **Support MouseBridge**; MouseBridge sends Ko-fi nothing, and the count
+  behind its occasional support note never leaves your computer.
 
 ## Help
 
 - **Pointer stuck on the other computer?** Press **Ctrl+Alt+Shift+Esc** (Windows keyboard) or
   **Control+Option+Shift+Esc** (Mac keyboard).
+- **A key does something else on the other computer?** Choose what your keyboard's keys do there in
+  *Settings > Keyboard*, on the computer whose keyboard you type on. It changes single keys, not whole shortcuts.
 - **Computers do not see each other?** Both must use the same security key and the same network. Allow MouseBridge in
   the Windows Firewall and in the Mac's *Local Network* settings, or use **Add a computer by address** on the
   *Computers* page.
